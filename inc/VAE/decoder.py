@@ -137,4 +137,3 @@ class VAE_Decoder(nn.Sequential):
         return x
     
 
-forward()
