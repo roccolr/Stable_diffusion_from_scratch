@@ -7,6 +7,7 @@ University project - debunk of main concepts behind stable diffusion, in order t
 This study aims to implement this other [project](https://github.com/h-tajato/progetto_ESM)
 
 ## References
+[VAE from scratch](https://www.youtube.com/watch?v=iwEzwTTalbg&ab_channel=UmarJamil)
 
 [coding stable diffusion from scratch](https://www.youtube.com/watch?v=ZBKpAp_6TGI&t=157s&ab_channel=UmarJamil)
 
