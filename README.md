@@ -14,3 +14,5 @@ This study aims to implement this other [project](https://github.com/h-tajato/pr
 [Stable Diffusion v 1.5 - HuggingFace](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main)
 
 [Transformers from scratch](https://www.youtube.com/watch?v=bCz4OMemCcA&ab_channel=UmarJamil)
+
+[VAE math](https://www.youtube.com/watch?v=jJZadDULoH4&ab_channel=PriyamMazumdar)
